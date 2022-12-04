@@ -1,0 +1,8 @@
+name: m49topic3
+channels:
+  - conda-forge
+dependencies:
+  - matplotlib
+
+
+
